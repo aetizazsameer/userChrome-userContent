@@ -8,7 +8,7 @@ My personal Firefox v97 (Windows) userChrome.css and userContent.css, using [Sid
 - Hide bookmarks star icon
 
 #### userContent.css
-- Hide Firefox logo without removing wordmark
+- Hide Firefox logo on new tab and new private tab
 - Hide search bar on new tab and new private tab
 - Remove Firefox VPN promo on new private tab
 - Remove info text bubble on new private tab
