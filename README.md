@@ -1,2 +1,3 @@
 # userChrome.css
-Personal browser userChrome
+My personal Firefox userChrome\
+Many additions from [@Timvde/UserChrome-Tweaks](https://github.com/Timvde/UserChrome-Tweaks)
