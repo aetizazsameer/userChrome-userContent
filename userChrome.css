@@ -1,4 +1,4 @@
-
+/* Hide horizontal tabs */
 .tabbrowser-tab {
   visibility: collapse !important;
 }
@@ -33,10 +33,7 @@
   background-color: var(--toolbar-bgcolor);
 }
 
-#sidebar-header {
-  display: none;
-}
-
+/* Move hamburger menu to top-left */
 #PanelUI-button {
   -moz-box-ordinal-group: 0;
   border-left: none !important;
@@ -59,6 +56,12 @@
   padding-inline-start: 40px !important;
 }
 
+/* Hide sidebar header */
+#sidebar-header {
+  display: none;
+}
+
+/* Hide bookmarks star icon */
 #star-button {
   display:none !important;
 }
