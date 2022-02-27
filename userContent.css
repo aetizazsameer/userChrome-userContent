@@ -1,8 +1,10 @@
 @-moz-document url('about:home'), url('about:newtab'), url('about:privatebrowsing') {
+	/* Hide Firefox logo on new tab and new private tab */
 	.logo {
 		height: 0px !important; 
 		width: 0px !important; 
 	}
+	/* Hide search bar on new tab and new private tab */
 	#newtab-search-container {
 		display: none !important;
 	}
@@ -15,9 +17,11 @@
 }
 
 @-moz-document url('about:privatebrowsing') {
+	/* Remove Firefox VPN promo on new private tab */
 	.promo.below-search {
 		display: none !important;
 	}
+	/* Remove info text bubble on new private tab */
 	.info {
 		display: none !important;
 	}
