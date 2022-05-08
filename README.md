@@ -13,6 +13,10 @@ My personal Firefox v97 (Windows) userChrome.css and userContent.css, using [Sid
 - Remove Firefox VPN promo on new private tab
 - Remove info text bubble on new private tab
 
+#### sidebery.json
+- Visual changes to match browser theme
+- Remove tab panel bar
+
 ---
 ### Screenshots
 New tab:![image](https://user-images.githubusercontent.com/67237406/155901391-6ae3c609-fb41-42d9-b3c4-6741bf9fd597.png)
