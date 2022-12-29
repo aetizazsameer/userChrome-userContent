@@ -1,5 +1,5 @@
 ### userChrome.css and userContent.css
-My personal Firefox v97 (Windows) userChrome.css and userContent.css, using [Sidebery](https://github.com/mbnuqw/sidebery) for vertical tabs
+My personal Firefox v97 (Windows) userChrome.css and userContent.css, using touch density and [Sidebery](https://github.com/mbnuqw/sidebery) for vertical tabs
 
 #### userChrome.css
 - [Hide horizontal tabs](https://github.com/Timvde/UserChrome-Tweaks/blob/master/sidebar/hide-sidebar-header.css)
