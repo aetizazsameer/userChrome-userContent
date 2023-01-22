@@ -63,5 +63,10 @@
 
 /* Hide bookmarks star icon */
 #star-button {
-  display:none !important;
+  display: none !important;
+}
+
+/* Remove unmoveable addon button */
+#unified-extensions-button {  
+  display: none !important;
 }
