@@ -6,6 +6,7 @@ My personal Firefox v97 (Windows) userChrome.css and userContent.css, using touc
 - [Move hamburger menu to top-left](https://github.com/Timvde/UserChrome-Tweaks/blob/master/hamburger/move-to-top-left-Linux-Windows.css)
 - Hide sidebar header
 - Hide bookmarks star icon
+- Remove addon icon
 
 #### userContent.css
 - Hide Firefox logo on new tab and new private tab
