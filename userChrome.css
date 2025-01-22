@@ -33,11 +33,9 @@
   background-color: var(--toolbar-bgcolor);
 }
 
-/* Move hamburger menu to top-left */
+/* Hide hamburger menu */
 #PanelUI-button {
-  -moz-box-ordinal-group: 0;
-  border-left: none !important;
-  position: absolute;
+  display: none !important;
 }
 
 :root[uidensity=compact] #PanelUI-button {
