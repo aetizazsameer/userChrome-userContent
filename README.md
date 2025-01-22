@@ -1,12 +1,12 @@
 ## userChrome.css and userContent.css
 My personal Firefox (Windows and macOS) userChrome.css and userContent.css, using [Sidebery](https://github.com/mbnuqw/sidebery) for vertical tabs
-##### No longer working with Firefox v133
+#### No longer working with Firefox v133+
+
 ---
 ### userChrome.css
 - [Hide horizontal tabs](https://github.com/Timvde/UserChrome-Tweaks/blob/master/sidebar/hide-sidebar-header.css)
-- [Move hamburger menu to top-left](https://github.com/Timvde/UserChrome-Tweaks/blob/master/hamburger/move-to-top-left-Linux-Windows.css)
+- Hide hamburger menu
 - Hide sidebar header
-- Remove addon icon
 
 ### userContent.css
 - Hide Firefox logo on new tab and new private tab
